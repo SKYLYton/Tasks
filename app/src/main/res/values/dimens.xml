@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_task">16dp</dimen>
+    <dimen name="task_cons_margin_start">16dp</dimen>
+    <dimen name="task_cons_margin_top">16dp</dimen>
+    <dimen name="task_cons_margin_end">16dp</dimen>
+    <dimen name="task_cons_margin_bottom">16dp</dimen>
+    <dimen name="task_textview_margin_start">16dp</dimen>
+    <dimen name="task_textview_margin_top">16dp</dimen>
+    <dimen name="task_textview_margin_end">16dp</dimen>
+    <dimen name="task_textview_margin_bottom">16dp</dimen>
+
+</resources>
